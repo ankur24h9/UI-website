@@ -1,0 +1,201 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+body {
+
+
+    background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-attachment: fixed;
+    background-color: rgb(255, 253, 253);
+    block-size: 100px;
+    background-repeat: no-repeat;
+    height: 2000px;
+
+}
+
+h2 {
+
+    background-size: 100%;
+    text-align: center;
+    color: wheat;
+}
+
+.fa-regular fa-user {
+
+    color: blue;
+}
+
+
+
+.navbar {
+    border-radius: 15px;
+    display: flex;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    height: 5vh;
+    width: 1280px;
+    padding: 10px 20px;
+    justify-content: space-between;
+    text-decoration: none;
+
+
+}
+
+a {
+    color: aliceblue;
+    margin-top: 20px;
+    margin: 10px 33px;
+    padding-top: 10px;
+    text-decoration: none;
+
+}
+
+li {
+
+
+    border-color: rgb(5, 47, 231);
+
+    display: inline;
+    margin: 12px 30px;
+    align-items: center;
+    float: none;
+    cursor: pointer;
+}
+
+
+
+#search {
+    border-radius: 20px;
+    border-color: blue;
+    margin: 20px 30px;
+    padding: 15PX 550px;
+}
+
+.txt {
+    margin-top: 10px;
+    margin: 10px 30px;
+    padding: 10px 30px;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(33, 255, 33);
+}
+
+.first {
+    color: white;
+    float: right;
+
+}
+
+.con {
+
+    float: right;
+    padding: 10px 10px;
+}
+
+
+.reason {
+    
+    text-align: center;
+    justify-content: center;
+    color: rgb(236, 231, 240);
+    margin: 20px 20px;
+    padding: 80px 10px;
+    font-style: arial;
+    box-sizing: border-box;
+    border-radius: 10px solid red;
+}
+
+.rea {
+    color: rgb(27, 27, 22);
+    color: beige;
+    align-items: center;
+    text-align: center;
+    margin: -80px 570px;
+
+    width: 200px;
+    font-style: italic;
+
+
+
+
+}
+
+.how {
+    text-align: center;
+    justify-content: center;
+    color: rgb(236, 231, 240);
+    margin: -50px 20px;
+    padding: 120px 10px;
+    font-style: arial;
+    box-sizing: border-box;
+    border-radius: 10px solid red;
+}
+
+.exp {
+    color: rgb(27, 27, 22);
+    color: beige;
+    align-items: center;
+    text-align: center;
+    margin: -90px 550px;
+    width: 200px;
+    font-style: italic;
+}
+
+.know {
+
+
+    text-align: center;
+    justify-content: center;
+    color: rgb(236, 231, 240);
+    margin: 100px 20px;
+    padding: 120px 10px;
+    font-style: arial;
+    box-sizing: border-box;
+    border-radius: 10px solid red;
+
+
+
+}
+
+.ser {
+
+    color: rgb(27, 27, 22);
+    color: beige;
+    align-items: center;
+    text-align: center;
+    margin: -150px 550px;
+    width: 200px;
+    font-style: italic;
+
+
+
+}
+
+
+
+
+#page2 {
+
+
+    color: rgb(38, 255, 0);
+    align-items: center;
+    text-align: center;
+    margin: -60px 1250px;
+    padding: 950px 37px;
+    font-style: italic;
+    bottom: 12px;
+
+}
